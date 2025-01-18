@@ -1,7 +1,7 @@
 ## Hello!, I'm Paulohpr 👋🏾
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning algorithm
+- 🌱 I’m currently learning python
 - 📫 How to reach me:
 
 | GitHub Stats                                                                                                      | Top Languages                                                                                                      |
