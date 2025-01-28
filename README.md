@@ -1,8 +1,7 @@
 ## Hello!, I'm Paulohpr 👋🏾
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning python
-- 📫 How to reach me:
+- 📚 I’m currently studing on ---
+- 📫 How to reach me: paulohpr.comercial@gmail.com
 
 | GitHub Stats                                                                                                      | Top Languages                                                                                                      |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
