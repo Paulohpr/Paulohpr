@@ -1,6 +1,6 @@
 ## Hello world! I'm Paulohpr 👋🏾
 
-- 📚 I’m currently studying ---
+- 📚 I’m currently studying Computer Science at Universidade de Brasília (UnB)
 - 📫 How to reach me: [paulohpr.comercial@gmail.com](mailto:paulohpr.comercial@gmail.com)
 
 ---
@@ -19,4 +19,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60"/>
 </div>
