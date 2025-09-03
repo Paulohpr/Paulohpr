@@ -31,26 +31,4 @@
 - 💻 Aspiring full-stack developer and cybersecurity enthusiast.  
 - 🚀 Passionate about building projects to continuously improve my skills.
 
-### 🧰 Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-</div>
-
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulohpr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false" height="200" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Paulohpr&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=false" height="200" alt="Top languages" />
-</div>
-
 
