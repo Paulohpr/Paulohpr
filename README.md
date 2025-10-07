@@ -31,9 +31,6 @@
 - 💻 Aspiring full-stack developer and cybersecurity enthusiast.  
 - 🚀 Passionate about building projects to continuously improve my skills.
 
-- 
-
-
 ### 🧰 Languages & Tools
 
 
@@ -80,9 +77,6 @@
 
 
 ### 📊 Stats
-
-
-
 
 
 <div align="center">
